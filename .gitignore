@@ -1,0 +1,8 @@
+.vscode/
+*.csproj
+*.sln
+Library/
+ProjectSettings/
+Logs/AssetImportWorker1-prev.log
+Logs/
+UserSettings/
